@@ -159,7 +159,7 @@ h1{
     z-index: -1;
 }
 
-@media (max-width:450px){
+@media (max-width:470px){
     .background-video{
         top: 0;
         height: 50%;
